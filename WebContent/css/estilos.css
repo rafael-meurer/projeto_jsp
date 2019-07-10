@@ -1,0 +1,15 @@
+/*Pagina inicial*/
+.formularioLogin{
+	
+	margin-top: 150px;
+}
+
+.formularioLogin input{
+	
+	margin-bottom: 10px;
+}
+
+.formularioProduto {
+	width: 50%;
+	margin: 10px auto;
+}
