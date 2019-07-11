@@ -101,7 +101,7 @@ public class ProdutoDao {
 		return valida;
 	}
 
-	//Obter dados de um produto especifico
+	//Obter dados de um produto especifico 
 	public static Produto selecionarProduto(int idProduto) {
 		
 		//Objeto da classe produto (Bean)
